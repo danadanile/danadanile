@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I’m a Computer Science student actively seeking a junior or student position in the field. I have strong technical experience through projects in front-end and back-end development. I am highly motivated, eager to learn, and excited to contribute to a dynamic and challenging environment.
 ## Skills
 Linux | MongoDB | Node.js | React | SQL & NoSQL | OOP | Machine Learning 
-## Programming Langueges
-Java | JS | Python | C++ | SQL
+## Programming Languages
+Java, JS, Python, C++, SQL
 
