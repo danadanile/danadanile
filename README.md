@@ -19,5 +19,5 @@ I’m a Computer Science student actively seeking a junior or student position i
 ## Skills
 Linux | MongoDB | Node.js | React | SQL & NoSQL | OOP | Machine Learning 
 ## Programming Languages
-Java, JS, Python, C++, SQL
+Java, JS, Python, C++
 
